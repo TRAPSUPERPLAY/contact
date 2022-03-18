@@ -11,7 +11,7 @@
 	$mail->IsHTML(true);
 
 	//От кого письмо
-	$mail->setFrom('superplaygames2020@gmail.com', 'SUPER PLAY');
+	$mail->setFrom('beybladeburstturbo2007@gmail.com', 'SUPER PLAY');
 	//Кому отправить
 	$mail->addAddress('superplaygames2020@gmail.com');
 	//Тема письма
